@@ -1,6 +1,6 @@
 cask "grpc-ui" do
-  version "0.1.10"
-  sha256 "1ac820ad130f20dc76076c1f505133dd4b1aaf70e6e47ecca20912ffae30c801"
+  version "0.2.0"
+  sha256 "2bccef76baeb58d1d7bd6e7038275286fe59eaf60bb97d6e97c78bc7a1033196"
 
   url "https://github.com/ministrudels/grpc-ui/releases/download/v#{version}/gRPC-UI-#{version}-arm64.dmg",
       verified: "github.com/ministrudels/grpc-ui/"
